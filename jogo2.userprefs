@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\inimigo.cs">
+    <Files>
+      <File FileName="Assets\JogadorControler.cs" Line="35" Column="3" />
+      <File FileName="Assets\FisicaJogador.cs" Line="17" Column="28" />
+      <File FileName="Assets\Scripts\CompBatalha.cs" Line="26" Column="41" />
+      <File FileName="Assets\Scripts\inimigo.cs" Line="62" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

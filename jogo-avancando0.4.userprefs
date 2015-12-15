@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Espada.cs">
+    <Files>
+      <File FileName="Assets\Scripts\inimigo.cs" Line="81" Column="2" />
+      <File FileName="Assets\Scripts\JogadorControler.cs" Line="89" Column="35" />
+      <File FileName="Assets\Scripts\Espada.cs" Line="25" Column="18" />
+      <File FileName="Assets\Scripts\Cameras.cs" Line="14" Column="51" />
+      <File FileName="Assets\Scripts\espadachim.cs" Line="81" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

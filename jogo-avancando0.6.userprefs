@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Salve.cs">
+    <Files>
+      <File FileName="Assets\Scripts\JogadorControler.cs" Line="20" Column="26" />
+      <File FileName="Assets\Scripts\CompBatalha.cs" Line="41" Column="6" />
+      <File FileName="Assets\Scripts\inimigo.cs" Line="329" Column="6" />
+      <File FileName="Assets\Scripts\espadachim.cs" Line="176" Column="6" />
+      <File FileName="Assets\Scripts\JogadorControler.cs" Line="256" Column="1" />
+      <File FileName="Assets\Scripts\Espada.cs" Line="41" Column="10" />
+      <File FileName="Assets\Scripts\Cameras.cs" Line="14" Column="78" />
+      <File FileName="Assets\Scripts\Controlador.cs" Line="37" Column="2" />
+      <File FileName="Assets\Scripts\CFase.cs" Line="9" Column="2" />
+      <File FileName="Assets\teste\Pause.cs" Line="47" Column="5" />
+      <File FileName="Assets\teste\Menu.cs" Line="218" Column="1" />
+      <File FileName="Assets\Scripts\Salve.cs" Line="15" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

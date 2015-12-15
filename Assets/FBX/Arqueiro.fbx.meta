@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: fbf79f669ed0ba7428740ce6f05b15ba
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arco
+    100002: Armature.Arqueiro
+    100004: Armature.Arqueiro|Anelar.L
+    100006: Armature.Arqueiro|Anelar.R
+    100008: Armature.Arqueiro|AntBraco.L
+    100010: Armature.Arqueiro|AntBraco.R
+    100012: Armature.Arqueiro|Arco
+    100014: Armature.Arqueiro|Braco.L
+    100016: Armature.Arqueiro|Braco.R
+    100018: Armature.Arqueiro|CABE__A
+    100020: Armature.Arqueiro|Calcanhar.L
+    100022: Armature.Arqueiro|Calcanhar.R
+    100024: Armature.Arqueiro|Cocha.L
+    100026: Armature.Arqueiro|Cocha.R
+    100028: Armature.Arqueiro|Coluna1
+    100030: Armature.Arqueiro|Coluna2
+    100032: Armature.Arqueiro|Coluna3
+    100034: Armature.Arqueiro|CordinhaArco
+    100036: Armature.Arqueiro|Dedao.L
+    100038: Armature.Arqueiro|Dedao.R
+    100040: Armature.Arqueiro|Indicador.L
+    100042: Armature.Arqueiro|Indicador.R
+    100044: Armature.Arqueiro|Mao.L
+    100046: Armature.Arqueiro|Mao.R
+    100048: Armature.Arqueiro|Meio.L
+    100050: Armature.Arqueiro|Meio.R
+    100052: Armature.Arqueiro|Mindinho.L
+    100054: Armature.Arqueiro|Mindinho.R
+    100056: Armature.Arqueiro|Pe.L
+    100058: Armature.Arqueiro|Pe.R
+    100060: Armature.Arqueiro|PESCO__O
+    100062: Armature.Arqueiro|PIROK
+    100064: Armature.Arqueiro|Tibia.L
+    100066: Armature.Arqueiro|Tibia.R
+    100068: //RootNode
+    100070: Arqueiro
+    100072: InimigoTosco.002
+    400000: Arco
+    400002: Armature.Arqueiro
+    400004: Armature.Arqueiro|Anelar.L
+    400006: Armature.Arqueiro|Anelar.R
+    400008: Armature.Arqueiro|AntBraco.L
+    400010: Armature.Arqueiro|AntBraco.R
+    400012: Armature.Arqueiro|Arco
+    400014: Armature.Arqueiro|Braco.L
+    400016: Armature.Arqueiro|Braco.R
+    400018: Armature.Arqueiro|CABE__A
+    400020: Armature.Arqueiro|Calcanhar.L
+    400022: Armature.Arqueiro|Calcanhar.R
+    400024: Armature.Arqueiro|Cocha.L
+    400026: Armature.Arqueiro|Cocha.R
+    400028: Armature.Arqueiro|Coluna1
+    400030: Armature.Arqueiro|Coluna2
+    400032: Armature.Arqueiro|Coluna3
+    400034: Armature.Arqueiro|CordinhaArco
+    400036: Armature.Arqueiro|Dedao.L
+    400038: Armature.Arqueiro|Dedao.R
+    400040: Armature.Arqueiro|Indicador.L
+    400042: Armature.Arqueiro|Indicador.R
+    400044: Armature.Arqueiro|Mao.L
+    400046: Armature.Arqueiro|Mao.R
+    400048: Armature.Arqueiro|Meio.L
+    400050: Armature.Arqueiro|Meio.R
+    400052: Armature.Arqueiro|Mindinho.L
+    400054: Armature.Arqueiro|Mindinho.R
+    400056: Armature.Arqueiro|Pe.L
+    400058: Armature.Arqueiro|Pe.R
+    400060: Armature.Arqueiro|PESCO__O
+    400062: Armature.Arqueiro|PIROK
+    400064: Armature.Arqueiro|Tibia.L
+    400066: Armature.Arqueiro|Tibia.R
+    400068: Arqueiro
+    400070: //RootNode
+    400072: InimigoTosco.002
+    2300000: InimigoTosco.002
+    3300000: InimigoTosco.002
+    4300000: Arqueiro
+    4300002: Arco
+    4300004: InimigoTosco.002
+    7400000: Armature.Arqueiro|Attack
+    9500000: //RootNode
+    13700000: Arco
+    13700002: Arqueiro
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.Arqueiro|Attack
+      takeName: Armature.Arqueiro|Attack
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arco
+        weight: 1
+      - path: Armature.Arqueiro
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Cocha.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Cocha.L/Armature.Arqueiro|Tibia.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Cocha.L/Armature.Arqueiro|Tibia.L/Armature.Arqueiro|Calcanhar.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Cocha.L/Armature.Arqueiro|Tibia.L/Armature.Arqueiro|Calcanhar.L/Armature.Arqueiro|Pe.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Cocha.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Cocha.R/Armature.Arqueiro|Tibia.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Cocha.R/Armature.Arqueiro|Tibia.R/Armature.Arqueiro|Calcanhar.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Cocha.R/Armature.Arqueiro|Tibia.R/Armature.Arqueiro|Calcanhar.R/Armature.Arqueiro|Pe.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L/Armature.Arqueiro|Mao.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L/Armature.Arqueiro|Mao.L/Armature.Arqueiro|Anelar.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L/Armature.Arqueiro|Mao.L/Armature.Arqueiro|Arco
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L/Armature.Arqueiro|Mao.L/Armature.Arqueiro|Arco/Armature.Arqueiro|CordinhaArco
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L/Armature.Arqueiro|Mao.L/Armature.Arqueiro|Dedao.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L/Armature.Arqueiro|Mao.L/Armature.Arqueiro|Indicador.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L/Armature.Arqueiro|Mao.L/Armature.Arqueiro|Meio.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.L/Armature.Arqueiro|AntBraco.L/Armature.Arqueiro|Mao.L/Armature.Arqueiro|Mindinho.L
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.R/Armature.Arqueiro|AntBraco.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.R/Armature.Arqueiro|AntBraco.R/Armature.Arqueiro|Mao.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.R/Armature.Arqueiro|AntBraco.R/Armature.Arqueiro|Mao.R/Armature.Arqueiro|Anelar.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.R/Armature.Arqueiro|AntBraco.R/Armature.Arqueiro|Mao.R/Armature.Arqueiro|Dedao.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.R/Armature.Arqueiro|AntBraco.R/Armature.Arqueiro|Mao.R/Armature.Arqueiro|Indicador.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.R/Armature.Arqueiro|AntBraco.R/Armature.Arqueiro|Mao.R/Armature.Arqueiro|Meio.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|Braco.R/Armature.Arqueiro|AntBraco.R/Armature.Arqueiro|Mao.R/Armature.Arqueiro|Mindinho.R
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|PESCO__O
+        weight: 1
+      - path: Armature.Arqueiro/Armature.Arqueiro|PIROK/Armature.Arqueiro|Coluna1/Armature.Arqueiro|Coluna2/Armature.Arqueiro|Coluna3/Armature.Arqueiro|PESCO__O/Armature.Arqueiro|CABE__A
+        weight: 1
+      - path: Arqueiro
+        weight: 1
+      - path: InimigoTosco.002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

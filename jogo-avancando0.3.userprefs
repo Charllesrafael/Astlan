@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Arqueiro.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Flecha.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\Arqueiro.cs" Line="19" Column="2" />
+      <File FileName="Assets\Scripts\Flecha.cs" Line="43" Column="1" />
+      <File FileName="Assets\Scripts\Olho.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\CompBatalha.cs" Line="26" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\espadachim.cs">
+    <Files>
+      <File FileName="Assets\Scripts\espadachim.cs" Line="296" Column="5" />
+      <File FileName="Assets\Scripts\Espada.cs" Line="20" Column="6" />
+      <File FileName="Assets\Scripts\inimigo.cs" Line="140" Column="6" />
+      <File FileName="Assets\Scripts\JogadorControler.cs" Line="93" Column="42" />
+      <File FileName="Assets\teste\Menu.cs" Line="21" Column="26" />
+      <File FileName="Assets\Scripts\Salve.cs" Line="15" Column="20" />
+      <File FileName="Assets\Scripts\NovoJogo.cs" Line="13" Column="43" />
+      <File FileName="Assets\Scripts\CFase.cs" Line="1" Column="1" />
+      <File FileName="Assets\teste\Pause.cs" Line="203" Column="39" />
+      <File FileName="Assets\Scripts\FisicaInimigos.cs" Line="128" Column="1" />
+      <File FileName="..\..\Downloads\Prefabs\Assets\Pixelplacement\iTweenPath\iTweenPath.cs" Line="34" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
